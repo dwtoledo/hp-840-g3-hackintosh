@@ -1,7 +1,8 @@
 # HP 840 G3 Hackintosh
 Repository to share my prebuilt Hackintosh EFI folder of my HP 840 G3 laptop.
 
-![Group 1](https://github.com/dwtoledo/hp-840-g3-hackintosh/assets/11148858/c22f11ae-1779-497a-ab19-ecb363d65f70)
+![Group 1](https://github.com/dwtoledo/hp-840-g3-hackintosh/assets/11148858/527c4299-c080-41bb-890d-ab38de195937)
+
 
 ## Hackintosh details:
 macOS version: Sonoma 14.3.1
