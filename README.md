@@ -1,10 +1,26 @@
 # HP 840 G3 Hackintosh
 Repository to share my prebuilt Hackintosh EFI folder of my HP 840 G3 laptop.
 
+## Hackintosh details (UPDATED Dec-09, 2014):
+
+![banner@0,5x](https://github.com/user-attachments/assets/fa7e80c9-0dc2-42a2-aef7-537ac98c3167)
+
+macOS version: Sequoia 15.1.1 (24B91)
+
+SMBIO Model: MacBookPro13,1
+
+Platform ID: 0x591B0000
+
+[OpenCore](https://github.com/acidanthera/OpenCorePkg) version: 1.0.3
+
+- This EFI was generated using [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) tool made by @lzhoang2801.
+- The new performance is really good compared to the previous EFI (Sonoma).
+- After the macOS installation and configuration I used the [One Key HiDPI](https://github.com/xzhih/one-key-hidpi) tool made by @xzhih to use scaled resolutions. With this tool the image is now perfect on HP 840 G3 Display.
+
+
+## Hackintosh details (OLD):
 ![Group 1](https://github.com/dwtoledo/hp-840-g3-hackintosh/assets/11148858/527c4299-c080-41bb-890d-ab38de195937)
 
-
-## Hackintosh details:
 macOS version: Sonoma 14.3.1
 
 SMBIO Model: MacBookPro14,1
